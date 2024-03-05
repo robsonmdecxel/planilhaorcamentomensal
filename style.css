@@ -1,0 +1,17 @@
+/* Estilos Personalizados */
+
+/* Banner */
+.banner img {
+  max-width: 100%;
+}
+
+/* Recursos */
+.recursos i {
+  font-size: 2rem;
+  color: #28a745; /* Cor do ícone de verificação */
+}
+
+/* Rodapé */
+.footer p {
+  margin-bottom: 0;
+}
